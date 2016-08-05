@@ -1,3 +1,5 @@
+"""Save this file as /var/www/command/knob.py"""
+
 #KY040 Python Class
 #base file from Martin O'Hanlon
 #stuffaboutcode.com
