@@ -26,7 +26,7 @@ subprocess.call(['mpc','play'])
 class KY040:
     """in martin's file the clockwise and anti clockwise variables are opposite with CLOCKWISE = 0, etc...
     however this gave my ky040 the opposite functionality that I wanted. I am sure the variables are arbitrary,
-    but I thought I would change it for the sake of sanity."""
+    but I thought I would change it for the sake of my personal sanity. do what works for your project."""
     CLOCKWISE = 1
     ANTICLOCKWISE = 0
     #button_counter tracks the number of times the switch on the ky040 has been pressed
